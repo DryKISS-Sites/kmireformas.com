@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://kmireformas.com/sitemap.xml
+Disallow:
